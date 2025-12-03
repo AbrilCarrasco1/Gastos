@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.write(''' # Predicción de costos ''')
-st.image("costos.png", caption="Predicción de tu costo por actividad")
+st.image("costos.jpg", caption="Predicción de tu costo por actividad")
 
 st.header('Descripción de la actividad')
 
